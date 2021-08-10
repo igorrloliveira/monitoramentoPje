@@ -1,0 +1,16 @@
+[
+  {
+    "name": "inspire",
+    "path": "/inspire",
+    "component": "/workspaces/monitoramento-web-master/pages/inspire.vue",
+    "chunkName": "pages/inspire",
+    "_name": "_7b803d6e"
+  },
+  {
+    "name": "index",
+    "path": "/",
+    "component": "/workspaces/monitoramento-web-master/pages/index.vue",
+    "chunkName": "pages/index",
+    "_name": "_1d4c4666"
+  }
+]
